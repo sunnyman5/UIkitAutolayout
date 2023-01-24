@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  UikitAutoLayout
 //
-//  Created by 小松田晴 on 2023/01/25.
+//  Created by haru on 2023/01/25.
 //
 
 import UIKit
